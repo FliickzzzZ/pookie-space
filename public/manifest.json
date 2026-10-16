@@ -1,0 +1,19 @@
+{
+  "short_name": "PookieSpace",
+  "name": "Pookie Space 💗",
+  "description": "Tu espacio personal y exclusivo con naimnecita, tu asistente personal ✨",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFF0F5",
+  "theme_color": "#FFF0F5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["lifestyle", "productivity", "shopping"]
+}
